@@ -53,7 +53,7 @@ git clone https://github.com/jangseongwoo/OpenGL-project.git
 
 ## 정보
 
-프로젝트에 대한 더 자세한 정보를 원하신다면,  2dgame 폴더 내에 있는 _SDL_보고서.pptx_ 를 참조해주세요.
+프로젝트에 대한 더 자세한 정보를 원하신다면,  폴더 내에 있는 _컴퓨터 그래픽스 최종 결과 보고서.hwp_ 를 참조해주세요.
 
 장성우 – [@facebook](https://www.facebook.com/profile.php?id=100007028118707&ref=bookmarks) – seongwoo.dev@gmail.com
 
